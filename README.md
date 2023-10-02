@@ -18,9 +18,6 @@ Demonstrate your ability deploy a fully automated Elastic Beanstalk deployment.
   - Issues
   - Steps
   - System Diagram
-  - Optimization (How would make this deployment more efficient)
-
-- Lastly, save your documentation and diagram into your repository. Submit your repository link to the LMS
 
 ## Deployment instructions Link:
 -  Link to instructions: https://github.com/kura-labs-org/c4_deployment-3/blob/main/Deployment-instructions.md
